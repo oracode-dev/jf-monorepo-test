@@ -1,0 +1,10 @@
+{
+  "name": "jf-monorepo-test",
+  "version": "1.0.0",
+  "description": "test monorepo",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.8.7"
+}
